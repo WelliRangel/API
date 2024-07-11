@@ -1,6 +1,6 @@
 # API Cubos Bank
 
-A API Cubos Bank é uma aplicação backend que implementa funcionalidades básicas de um sistema bancário. Foi desenvolvida como parte de um desafio do módulo 2 da Cubos Academy.
+A API Cubos Bank é uma aplicação backend que implementa funcionalidades básicas de um sistema bancário. Foi desenvolvida como parte de um desafio do módulo 2 do curso de Desenvolvimento de Software Backend ministrado pela Cubos Academy.
 
 ## Funcionalidades
 
